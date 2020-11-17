@@ -9,6 +9,10 @@ To Create  your own Snake and Ladder
 	1. Clone the project repository
 	2. Run python ladder.py on command prompt
 
+About project:
+
+Snake and ladder is an python Application.In this project i designed a text based snake and ladder game, this application can run in command prompt to play a snake and ladder game
+
 Few basic concepts used in this code are:
  
 - Dictionary
