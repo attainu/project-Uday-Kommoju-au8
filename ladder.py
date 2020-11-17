@@ -1,9 +1,8 @@
 
 import time
 import random
-
 import sys
-# just of effects. add a delay of 1 second before performing any action
+
 SLEEP_BETWEEN_ACTIONS = 1
 MAX_VAL = 100
 DICE_1_FACE = 6
